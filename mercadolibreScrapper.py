@@ -5,10 +5,9 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 options = Options()
-
-#options.headless = True
-#options.add_argument('--disable-gpu')
-#options.add_argument('--no-sandbox')
+options.headless = True
+options.add_argument('--disable-gpu')
+options.add_argument('--no-sandbox')
 
 driver = webdriver.Firefox(executable_path = 'geckodriver', options=options)
 
@@ -25,13 +24,13 @@ def get_house_data(seleniumElement, city):
     address = seleniumElement.find_element_by_class_name("ui-search-item__location").text
     title = seleniumElement.find_element_by_class_name("ui-search-item__title").text
     url = seleniumElement.find_element_by_tag_name("a").get_attribute("href")
-    print(url)
     return {'imgurl' : img, 'price' : price, 'size' : size, 'address' : address, 'title' : title, 'url' : url, 'city' : city}
 
 def selenium_house_to_obj(all_house, city):
     my_house_obj = []
     for house in all_house:
         houseObj = get_house_data(house, city)
+        print(houseObj)
         my_house_obj.append(houseObj)
     return my_house_obj
 
@@ -40,7 +39,6 @@ all_houses_obj = selenium_house_to_obj(all_house, "Atlantida")
 def save_in_last_row_csv(text, csv_name):
     with open(csv_name,'a') as fd:
         fd.write(text + "\n")
-
 
 def save_house_in_csv(houseObj):
     string = "{} , {} , {} , {} , {} , {}, {}".format(
@@ -54,31 +52,41 @@ def save_house_in_csv(houseObj):
     save_in_last_row_csv(string,"houseData.csv")
 
 
-import dbdata
-
 import pymysql
 
+connection_bd = pymysql.connect(
+    user = "housedata", 
+    password="Qd3qY03!E_7o", 
+    host = "den1.mysql5.gear.host", 
+    database="housedata" )
 
-conn = pymysql.connect(host='den1.mysql6.gear.host',user='housedata',passwd=dbdata.password,db='housedata')
 
-cur = conn.cursor()
+cursor = connection_bd.cursor()
 
+#sql_table_created = """ CREATE TABLE HouseData ( imgurl VARCHAR(200), price VARCHAR(200), size VARCHAR(200), address VARCHAR(200), title VARCHAR(200), url VARCHAR(200), city VARCHAR(200) ); """
+#cursor.execute(sql_table_created)
+
+def get_insert_house_query(houseObj):
+    sql_insert = "INSERT INTO HouseData (imgurl , price , size , address , title , url , city) VALUES " 
+    sql_insert += " ( '{}' , '{}' , '{}' , '{}' , '{}' , '{}', '{}' )".format(
+        houseObj['imgurl'] ,
+        houseObj['price'] , 
+        houseObj['size'] , 
+        houseObj['address'] , 
+        houseObj['title'] , 
+        houseObj['url'],
+        houseObj['city'])
+    return sql_insert
 
 for houseObj in all_houses_obj:
-    save_house_in_csv(houseObj)
-    comaSeparation = "' , '" 
-    sql = "INSERT INTO HOUSES (imgurl , price , size , address , title , url , city) VALUES ( '" + houseObj['imgurl'] + comaSeparation + houseObj['price'] + comaSeparation + houseObj['size'] + comaSeparation +  houseObj['address'] + comaSeparation + houseObj['title'] + comaSeparation +  houseObj['url'] + comaSeparation + houseObj['city'] + "');"
-    print(sql)
-    cur.execute(sql)
+    sql_insert = get_insert_house_query(houseObj)
+    print(sql_insert)
+    cursor.execute(sql_insert)
 
-cur.execute("SELECT * FROM HOUSES")
-for r in cur:
-    print(r)
-
-cur.close()
-conn.commit()
-conn.close()
+connection_bd.commit()
 
 
-# Create table as per requirement
-#sql = """CREATE TABLE HOUSES (imgurl VARCHAR(200), price VARCHAR(20), size VARCHAR(20), address VARCHAR(20), title VARCHAR(20), url VARCHAR(200), city VARCHAR(20) )"""
+cursor.close()
+connection_bd.close()
+
+
