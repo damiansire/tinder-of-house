@@ -1,0 +1,621 @@
+1608158506144	geckodriver	INFO	Listening on 127.0.0.1:42623
+1608158506150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoE8TK8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608158510559	Marionette	INFO	Listening on port 34791
+1608158510620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+JavaScript error: https://datatofish.com/create-pandas-dataframe/, line 57: ReferenceError: jQuery is not defined
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.51, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.eventLogger is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608159388311	geckodriver	INFO	Listening on 127.0.0.1:44133
+1608159388317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKgfK6m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608159391709	Marionette	INFO	Listening on port 40835
+1608159391766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.51, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://www.geeksforgeeks.org/python-string-replace/, line 784: ReferenceError: jQuery is not defined
+JavaScript error: https://www.geeksforgeeks.org/python-string-replace/ line 1 > injectedScript, line 1: TypeError: e is not a function
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.eventLogger is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: t.config is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1608159778246	Marionette	INFO	Stopped listening on port 40835
+1608842813357	geckodriver	INFO	Listening on 127.0.0.1:43377
+1608842813362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOkq7qs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608842816519	Marionette	INFO	Listening on port 43545
+1608842816614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608842823312	Marionette	INFO	Stopped listening on port 43545
+1608842847132	geckodriver	INFO	Listening on 127.0.0.1:45031
+1608842847138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePo4IDX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608842850249	Marionette	INFO	Listening on port 35757
+1608842850385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608842861558	Marionette	INFO	Stopped listening on port 35757
+1608859964385	geckodriver	INFO	Listening on 127.0.0.1:53375
+1608859965398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSodQuD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608859969105	Marionette	INFO	Listening on port 44131
+1608859969169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608860029589	geckodriver	INFO	Listening on 127.0.0.1:32829
+1608860029594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Wqh8V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608860033100	Marionette	INFO	Listening on port 43511
+1608860033167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608860127697	geckodriver	INFO	Listening on 127.0.0.1:33665
+1608860127705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5v0N6B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608860131077	Marionette	INFO	Listening on port 35961
+1608860131168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608860151192	Marionette	INFO	Stopped listening on port 43511
+1608860153351	Marionette	INFO	Stopped listening on port 44131
+1608860158390	Marionette	INFO	Stopped listening on port 35961
+1608860258011	geckodriver	INFO	Listening on 127.0.0.1:41925
+1608860258018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegR7ydS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608860262140	Marionette	INFO	Listening on port 34779
+1608860262273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608860350093	geckodriver	INFO	Listening on 127.0.0.1:49625
+1608860350100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDttI9q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608860353224	Marionette	INFO	Listening on port 46379
+1608860353344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608860400264	geckodriver	INFO	Listening on 127.0.0.1:36995
+1608860400271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8o4qtr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608860403688	Marionette	INFO	Listening on port 46595
+1608860403810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608860436543	Marionette	INFO	Stopped listening on port 46595
+1608860437500	Marionette	INFO	Stopped listening on port 46379
+1608860439748	Marionette	INFO	Stopped listening on port 34779
+1608861462218	geckodriver	INFO	Listening on 127.0.0.1:54967
+1608861462225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYhLmPG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608861465287	Marionette	INFO	Listening on port 45905
+1608861465379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608862069191	geckodriver	INFO	Listening on 127.0.0.1:46261
+1608862069198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehoPBXS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608862072111	Marionette	INFO	Listening on port 33627
+1608862072234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608862413407	geckodriver	INFO	Listening on 127.0.0.1:53831
+1608862413413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexJ7FAo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608862416276	Marionette	INFO	Listening on port 34249
+1608862416357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608862561083	Marionette	INFO	Stopped listening on port 45905
+1608863151481	geckodriver	INFO	Listening on 127.0.0.1:33033
+1608863151487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFTL6Go"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608863155233	Marionette	INFO	Listening on port 37787
+1608863155342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608863178649	geckodriver	INFO	Listening on 127.0.0.1:44591
+1608863178657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7o3Ke4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608863182646	Marionette	INFO	Listening on port 40553
+1608863182720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608863554966	geckodriver	INFO	Listening on 127.0.0.1:57993
+1608863554977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePA6CkJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608863558149	Marionette	INFO	Listening on port 45865
+1608863558232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608863624762	geckodriver	INFO	Listening on 127.0.0.1:49955
+1608863624768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewnWlHv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608863627917	Marionette	INFO	Listening on port 46533
+1608863628014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608863895716	Marionette	INFO	Stopped listening on port 37787
+1608863898516	Marionette	INFO	Stopped listening on port 40553
+1608863900931	Marionette	INFO	Stopped listening on port 45865
+1608863908884	Marionette	INFO	Stopped listening on port 46533
+1608863909879	Marionette	INFO	Stopped listening on port 34249
+1608863910671	Marionette	INFO	Stopped listening on port 33627
+1608864040965	geckodriver	INFO	Listening on 127.0.0.1:45071
+1608864040972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI2qn9H"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608864044613	Marionette	INFO	Listening on port 46459
+1608864044735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608864072967	geckodriver	INFO	Listening on 127.0.0.1:40825
+1608864072973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLrtjB6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608864076778	Marionette	INFO	Listening on port 35259
+1608864076838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608864162714	geckodriver	INFO	Listening on 127.0.0.1:50233
+1608864163706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebI5rEc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608864168065	Marionette	INFO	Listening on port 33757
+1608864168180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608864296193	geckodriver	INFO	Listening on 127.0.0.1:55131
+1608864296199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePC867m"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608864299153	Marionette	INFO	Listening on port 42001
+1608864299275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608864526741	geckodriver	INFO	Listening on 127.0.0.1:45917
+1608864526747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP4ggy4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608864529602	Marionette	INFO	Listening on port 36845
+1608864529690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608864573975	geckodriver	INFO	Listening on 127.0.0.1:46419
+1608864573980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejCLRko"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608864576787	Marionette	INFO	Listening on port 45049
+1608864576840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608864614049	geckodriver	INFO	Listening on 127.0.0.1:46755
+1608864614057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerWXdgX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608864616824	Marionette	INFO	Listening on port 35309
+1608864616908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608864649890	geckodriver	INFO	Listening on 127.0.0.1:38153
+1608864649896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecEWhab"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608864652897	Marionette	INFO	Listening on port 43659
+1608864652948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00E9,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608938819091	geckodriver	INFO	Listening on 127.0.0.1:53765
+1608938820102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo3RISc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608938822803	Marionette	INFO	Listening on port 41883
+1608938822842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608938829580	Marionette	INFO	Stopped listening on port 41883
+1608938839647	geckodriver	INFO	Listening on 127.0.0.1:37289
+1608938839651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXu46qc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608938841757	Marionette	INFO	Listening on port 34655
+1608938841875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1608938863118	Marionette	INFO	Stopped listening on port 34655
+1609015527624	geckodriver	INFO	Listening on 127.0.0.1:33681
+1609015528633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenGm5nO"
+*** You are running in headless mode.
+
+(firefox:19542): GLib-GObject-WARNING **: 17:45:29.116: invalid (NULL) pointer instance
+
+(firefox:19542): GLib-GObject-CRITICAL **: 17:45:29.116: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:19612): GLib-GObject-WARNING **: 17:45:29.678: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19612): GLib-GObject-CRITICAL **: 17:45:29.678: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:19638): GLib-GObject-WARNING **: 17:45:29.838: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19638): GLib-GObject-CRITICAL **: 17:45:29.838: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19709): GLib-GObject-WARNING **: 17:45:30.729: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19709): GLib-GObject-CRITICAL **: 17:45:30.729: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609015530733	Marionette	INFO	Listening on port 38301
+1609015530758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015559142	geckodriver	INFO	Listening on 127.0.0.1:46683
+1609015559145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuOFS3R"
+*** You are running in headless mode.
+
+(firefox:19877): GLib-GObject-WARNING **: 17:45:59.431: invalid (NULL) pointer instance
+
+(firefox:19877): GLib-GObject-CRITICAL **: 17:45:59.431: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:19938): GLib-GObject-WARNING **: 17:45:59.798: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19938): GLib-GObject-CRITICAL **: 17:45:59.798: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:19959): GLib-GObject-WARNING **: 17:45:59.901: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:19959): GLib-GObject-CRITICAL **: 17:45:59.901: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609015560589	Marionette	INFO	Listening on port 36437
+1609015560664	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20051): GLib-GObject-WARNING **: 17:46:00.764: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20051): GLib-GObject-CRITICAL **: 17:46:00.764: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015580178	geckodriver	INFO	Listening on 127.0.0.1:56725
+1609015580182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileErSFhO"
+*** You are running in headless mode.
+
+(firefox:20193): GLib-GObject-WARNING **: 17:46:20.610: invalid (NULL) pointer instance
+
+(firefox:20193): GLib-GObject-CRITICAL **: 17:46:20.610: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20248): GLib-GObject-WARNING **: 17:46:21.172: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20248): GLib-GObject-CRITICAL **: 17:46:21.172: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20269): GLib-GObject-WARNING **: 17:46:21.297: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20269): GLib-GObject-CRITICAL **: 17:46:21.297: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609015582154	Marionette	INFO	Listening on port 41913
+
+(/usr/lib/firefox/firefox:20348): GLib-GObject-WARNING **: 17:46:22.167: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20348): GLib-GObject-CRITICAL **: 17:46:22.167: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609015582207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015643446	geckodriver	INFO	Listening on 127.0.0.1:53101
+1609015643450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesvE69h"
+*** You are running in headless mode.
+
+(firefox:20528): GLib-GObject-WARNING **: 17:47:23.767: invalid (NULL) pointer instance
+
+(firefox:20528): GLib-GObject-CRITICAL **: 17:47:23.767: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20583): GLib-GObject-WARNING **: 17:47:24.190: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20583): GLib-GObject-CRITICAL **: 17:47:24.190: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20606): GLib-GObject-WARNING **: 17:47:24.319: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20606): GLib-GObject-CRITICAL **: 17:47:24.319: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609015645091	Marionette	INFO	Listening on port 45447
+
+(/usr/lib/firefox/firefox:20701): GLib-GObject-WARNING **: 17:47:25.166: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20701): GLib-GObject-CRITICAL **: 17:47:25.166: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609015645179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015683300	geckodriver	INFO	Listening on 127.0.0.1:58937
+1609015683304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbGAWZ"
+*** You are running in headless mode.
+
+(firefox:20864): GLib-GObject-WARNING **: 17:48:03.736: invalid (NULL) pointer instance
+
+(firefox:20864): GLib-GObject-CRITICAL **: 17:48:03.736: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20925): GLib-GObject-WARNING **: 17:48:04.384: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20925): GLib-GObject-CRITICAL **: 17:48:04.384: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20948): GLib-GObject-WARNING **: 17:48:04.531: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20948): GLib-GObject-CRITICAL **: 17:48:04.531: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21034): GLib-GObject-WARNING **: 17:48:05.398: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21034): GLib-GObject-CRITICAL **: 17:48:05.398: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609015685402	Marionette	INFO	Listening on port 36517
+1609015685440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015693554	geckodriver	INFO	Listening on 127.0.0.1:52185
+1609015693557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoZbS1T"
+*** You are running in headless mode.
+
+(firefox:21129): GLib-GObject-WARNING **: 17:48:13.931: invalid (NULL) pointer instance
+
+(firefox:21129): GLib-GObject-CRITICAL **: 17:48:13.931: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21188): GLib-GObject-WARNING **: 17:48:14.332: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21188): GLib-GObject-CRITICAL **: 17:48:14.332: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21209): GLib-GObject-WARNING **: 17:48:14.445: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21209): GLib-GObject-CRITICAL **: 17:48:14.445: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609015695151	Marionette	INFO	Listening on port 36445
+1609015695178	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21289): GLib-GObject-WARNING **: 17:48:15.313: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21289): GLib-GObject-CRITICAL **: 17:48:15.313: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015752744	geckodriver	INFO	Listening on 127.0.0.1:53701
+1609015752747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT3XHSA"
+*** You are running in headless mode.
+
+(firefox:21478): GLib-GObject-WARNING **: 17:49:13.091: invalid (NULL) pointer instance
+
+(firefox:21478): GLib-GObject-CRITICAL **: 17:49:13.091: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21537): GLib-GObject-WARNING **: 17:49:13.463: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21537): GLib-GObject-CRITICAL **: 17:49:13.463: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21558): GLib-GObject-WARNING **: 17:49:13.575: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21558): GLib-GObject-CRITICAL **: 17:49:13.575: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21638): GLib-GObject-WARNING **: 17:49:14.618: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21638): GLib-GObject-CRITICAL **: 17:49:14.618: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609015754621	Marionette	INFO	Listening on port 45955
+1609015754673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015791331	geckodriver	INFO	Listening on 127.0.0.1:50465
+1609015791334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0nBtU5"
+*** You are running in headless mode.
+
+(firefox:21755): GLib-GObject-WARNING **: 17:49:51.631: invalid (NULL) pointer instance
+
+(firefox:21755): GLib-GObject-CRITICAL **: 17:49:51.631: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21814): GLib-GObject-WARNING **: 17:49:51.954: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21814): GLib-GObject-CRITICAL **: 17:49:51.954: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21836): GLib-GObject-WARNING **: 17:49:52.051: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21836): GLib-GObject-CRITICAL **: 17:49:52.051: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609015792770	Marionette	INFO	Listening on port 37071
+1609015792854	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21915): GLib-GObject-WARNING **: 17:49:52.953: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21915): GLib-GObject-CRITICAL **: 17:49:52.954: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015918629	geckodriver	INFO	Listening on 127.0.0.1:60019
+1609015918633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezLk4nB"
+*** You are running in headless mode.
+
+(firefox:22354): GLib-GObject-WARNING **: 17:51:58.991: invalid (NULL) pointer instance
+
+(firefox:22354): GLib-GObject-CRITICAL **: 17:51:58.991: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22422): GLib-GObject-WARNING **: 17:51:59.394: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22422): GLib-GObject-CRITICAL **: 17:51:59.394: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22443): GLib-GObject-WARNING **: 17:51:59.505: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22443): GLib-GObject-CRITICAL **: 17:51:59.505: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609015920391	Marionette	INFO	Listening on port 33721
+
+(/usr/lib/firefox/firefox:22519): GLib-GObject-WARNING **: 17:52:00.399: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22519): GLib-GObject-CRITICAL **: 17:52:00.399: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609015920456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609015964079	geckodriver	INFO	Listening on 127.0.0.1:34963
+1609015964082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJBe4lE"
+*** You are running in headless mode.
+
+(firefox:22752): GLib-GObject-WARNING **: 17:52:44.559: invalid (NULL) pointer instance
+
+(firefox:22752): GLib-GObject-CRITICAL **: 17:52:44.559: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22810): GLib-GObject-WARNING **: 17:52:45.082: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22810): GLib-GObject-CRITICAL **: 17:52:45.082: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22831): GLib-GObject-WARNING **: 17:52:45.197: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22831): GLib-GObject-CRITICAL **: 17:52:45.197: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609015966144	Marionette	INFO	Listening on port 35117
+
+(/usr/lib/firefox/firefox:22908): GLib-GObject-WARNING **: 17:52:46.151: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22908): GLib-GObject-CRITICAL **: 17:52:46.151: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609015966209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609017249171	geckodriver	INFO	Listening on 127.0.0.1:47369
+1609017249175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Y8TQN"
+*** You are running in headless mode.
+
+(firefox:23854): GLib-GObject-WARNING **: 18:14:09.471: invalid (NULL) pointer instance
+
+(firefox:23854): GLib-GObject-CRITICAL **: 18:14:09.471: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23916): GLib-GObject-WARNING **: 18:14:09.787: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23916): GLib-GObject-CRITICAL **: 18:14:09.787: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:23939): GLib-GObject-WARNING **: 18:14:09.879: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:23939): GLib-GObject-CRITICAL **: 18:14:09.879: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609017250605	Marionette	INFO	Listening on port 37459
+1609017250694	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24016): GLib-GObject-WARNING **: 18:14:10.790: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:24016): GLib-GObject-CRITICAL **: 18:14:10.790: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609017264550	geckodriver	INFO	Listening on 127.0.0.1:44117
+1609017264555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenwFGCF"
+*** You are running in headless mode.
+
+(firefox:24109): GLib-GObject-WARNING **: 18:14:24.876: invalid (NULL) pointer instance
+
+(firefox:24109): GLib-GObject-CRITICAL **: 18:14:24.876: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:24164): GLib-GObject-WARNING **: 18:14:25.225: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:24164): GLib-GObject-CRITICAL **: 18:14:25.226: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:24185): GLib-GObject-WARNING **: 18:14:25.323: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:24185): GLib-GObject-CRITICAL **: 18:14:25.323: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609017266144	Marionette	INFO	Listening on port 40245
+1609017266217	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24263): GLib-GObject-WARNING **: 18:14:26.221: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:24263): GLib-GObject-CRITICAL **: 18:14:26.221: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609025976896	geckodriver	INFO	Listening on 127.0.0.1:35565
+1609025977911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVSJFwq"
+*** You are running in headless mode.
+
+(firefox:10180): GLib-GObject-WARNING **: 20:39:38.668: invalid (NULL) pointer instance
+
+(firefox:10180): GLib-GObject-CRITICAL **: 20:39:38.668: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:10247): GLib-GObject-WARNING **: 20:39:39.358: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:10247): GLib-GObject-CRITICAL **: 20:39:39.359: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:10274): GLib-GObject-WARNING **: 20:39:39.528: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:10274): GLib-GObject-CRITICAL **: 20:39:39.528: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10347): GLib-GObject-WARNING **: 20:39:40.719: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:10347): GLib-GObject-CRITICAL **: 20:39:40.719: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609025980738	Marionette	INFO	Listening on port 33875
+1609025980851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609031278343	geckodriver	INFO	Listening on 127.0.0.1:55563
+1609031279353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEeMXNa"
+*** You are running in headless mode.
+
+(firefox:6671): GLib-GObject-WARNING **: 22:08:00.133: invalid (NULL) pointer instance
+
+(firefox:6671): GLib-GObject-CRITICAL **: 22:08:00.133: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6752): GLib-GObject-WARNING **: 22:08:00.855: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6752): GLib-GObject-CRITICAL **: 22:08:00.856: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6779): GLib-GObject-WARNING **: 22:08:01.079: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6779): GLib-GObject-CRITICAL **: 22:08:01.079: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6852): GLib-GObject-WARNING **: 22:08:02.430: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6852): GLib-GObject-CRITICAL **: 22:08:02.430: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609031282430	Marionette	INFO	Listening on port 41187
+1609031282492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1609035379909	geckodriver	INFO	Listening on 127.0.0.1:50101
+1609035379916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--disable-gpu" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles3Rw4e"
+*** You are running in headless mode.
+
+(firefox:15562): GLib-GObject-WARNING **: 23:16:20.464: invalid (NULL) pointer instance
+
+(firefox:15562): GLib-GObject-CRITICAL **: 23:16:20.464: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:15629): GLib-GObject-WARNING **: 23:16:21.106: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:15629): GLib-GObject-CRITICAL **: 23:16:21.106: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:15650): GLib-GObject-WARNING **: 23:16:21.277: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:15650): GLib-GObject-CRITICAL **: 23:16:21.277: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609035382491	Marionette	INFO	Listening on port 38103
+
+(/usr/lib/firefox/firefox:15729): GLib-GObject-WARNING **: 23:16:22.496: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:15729): GLib-GObject-CRITICAL **: 23:16:22.496: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609035382564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00E7,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
