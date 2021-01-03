@@ -19,16 +19,17 @@ def execute_query(query):
     connection_bd.close()
 
 def create_housedata_table():
-    sql_table_created = """ CREATE TABLE HouseData ( code VARCHAR(60), address VARCHAR(200), city VARCHAR(200), region VARCHAR(200), price VARCHAR(200), size VARCHAR(200), title VARCHAR(200), url VARCHAR(200), imgurl VARCHAR(200)); """
+    sql_table_created = """ CREATE TABLE HouseData ( code VARCHAR(60), address VARCHAR(200), city VARCHAR(200), region VARCHAR(200), price VARCHAR(200), size VARCHAR(200), title VARCHAR(200), url VARCHAR(300), imgurl VARCHAR(200)); """
     execute_query(sql_table_created)
 
-
+### CUIDADO, NO HACER ESTO ASI EN PROYECTOS REALES, PORQUE TIENE PELIGRO DE INYECCION SQL
+### AGUJERO DE SEGURIDAD, USAR PARAMETROS.
 def get_insert_house_query(houseObj):
-    sql_insert = "INSERT INTO HouseData (code, imgurl , price , size , address , title , url , city) VALUES " 
-    sql_insert += " ( '{}', '{}' , '{}' , '{}' , '{}' , '{}' , '{}', '{}' )".format(
+    sql_insert = "INSERT INTO HouseData ( code, address, city, region, price, size, title, url, imgurl) VALUES " 
+    sql_insert += " ( '{}', '{}' , '{}' , '{}' , '{}' , '{}' , '{}', '{}', '{}' )".format(
         houseObj['code'] ,
-        houseObj['city'],
         houseObj['address'] , 
+        houseObj['city'],
         houseObj['region'] , 
         houseObj['price'] , 
         houseObj['size'] , 
@@ -49,7 +50,7 @@ def insert_all_house(all_houses_obj):
     connection_bd.close()
 
 def dbHouse_to_house(row):
-    return {'code' : row[0], 'imgurl' : row[1], 'price' : row[2], 'size' : row[3], 'address' : row[4], 'title' : row[5] , 'url' : row[6], 'city' : row[7]}
+    return {'code' : row[0], 'address' : row[1], 'city' : row[2], 'region' : row[3], 'price' : row[4], 'size' : row[5], 'title' : row[6], 'url' : row[7], 'imgurl' : row[8]}
 
 def get_all_house():
     connection_bd = get_bd_connection()

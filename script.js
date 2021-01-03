@@ -17,9 +17,10 @@ function addHouse(houseData) {
 
 function renderData(houseData) {
     let dataHouseTr = document.createElement("tr");
-    addNormalTd(dataHouseTr, houseData['id']);
+    addNormalTd(dataHouseTr, houseData['code']);
     addNormalTd(dataHouseTr, houseData['address']);
     addNormalTd(dataHouseTr, houseData['city']);
+    addNormalTd(dataHouseTr, houseData['region']);
     addTdImg(dataHouseTr, houseData['imgurl']);
     addNormalTd(dataHouseTr, houseData['price']);
     addNormalTd(dataHouseTr, houseData['size']);
