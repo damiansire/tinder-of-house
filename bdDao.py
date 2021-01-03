@@ -9,19 +9,32 @@ def get_bd_connection():
         database="housedata" )
     return connection_bd
 
-#sql_table_created = """ CREATE TABLE HouseData ( imgurl VARCHAR(200), price VARCHAR(200), size VARCHAR(200), address VARCHAR(200), title VARCHAR(200), url VARCHAR(200), city VARCHAR(200) ); """
-#cursor.execute(sql_table_created)
+def execute_query(query):
+    connection_bd = get_bd_connection()
+    cursor = connection_bd.cursor()
+    sql_table_created = query
+    cursor.execute(sql_table_created)
+    connection_bd.commit()
+    cursor.close()
+    connection_bd.close()
+
+def create_housedata_table():
+    sql_table_created = """ CREATE TABLE HouseData ( code VARCHAR(60), address VARCHAR(200), city VARCHAR(200), region VARCHAR(200), price VARCHAR(200), size VARCHAR(200), title VARCHAR(200), url VARCHAR(200), imgurl VARCHAR(200)); """
+    execute_query(sql_table_created)
+
 
 def get_insert_house_query(houseObj):
-    sql_insert = "INSERT INTO HouseData (imgurl , price , size , address , title , url , city) VALUES " 
-    sql_insert += " ( '{}' , '{}' , '{}' , '{}' , '{}' , '{}', '{}' )".format(
-        houseObj['imgurl'] ,
+    sql_insert = "INSERT INTO HouseData (code, imgurl , price , size , address , title , url , city) VALUES " 
+    sql_insert += " ( '{}', '{}' , '{}' , '{}' , '{}' , '{}' , '{}', '{}' )".format(
+        houseObj['code'] ,
+        houseObj['city'],
+        houseObj['address'] , 
+        houseObj['region'] , 
         houseObj['price'] , 
         houseObj['size'] , 
-        houseObj['address'] , 
         houseObj['title'] , 
         houseObj['url'],
-        houseObj['city'])
+        houseObj['imgurl'])
     return sql_insert
 
 def insert_all_house(all_houses_obj):
@@ -36,7 +49,7 @@ def insert_all_house(all_houses_obj):
     connection_bd.close()
 
 def dbHouse_to_house(row):
-    return {'imgurl' : row[0], 'price' : row[1], 'size' : row[2], 'address' : row[3], 'title' : row[4] , 'url' : row[5], 'city' : row[6]}
+    return {'code' : row[0], 'imgurl' : row[1], 'price' : row[2], 'size' : row[3], 'address' : row[4], 'title' : row[5] , 'url' : row[6], 'city' : row[7]}
 
 def get_all_house():
     connection_bd = get_bd_connection()

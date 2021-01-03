@@ -7,9 +7,7 @@ req.onreadystatechange = function() {
     }
 };
 
-var aux;
-
-let allHouseEndpoint = "http://127.0.0.1:5400/api/v1/getAllHouse/"
+let allHouseEndpoint = "http://127.0.0.1:5550/api/v1/getAllHouse/"
 req.open("GET", allHouseEndpoint, true);
 req.send();
 
@@ -18,22 +16,34 @@ function addHouse(houseData) {
 }
 
 function renderData(houseData) {
-
     let dataHouseTr = document.createElement("tr");
-
-    let houseDataKey = ['id', 'address', 'city', 'imgurl', 'price', 'size', 'title', 'url'];
-
-    houseDataKey.forEach(key => {
-        let tdElement = document.createElement("td");
-        let text = document.createTextNode(houseData[key]); // Create a text node
-        tdElement.appendChild(text);
-        dataHouseTr.appendChild(tdElement)
-    });
-
-    document.getElementsByClassName("houseTableBody")[0].appendChild(dataHouseTr)
+    addNormalTd(dataHouseTr, houseData['id']);
+    addNormalTd(dataHouseTr, houseData['address']);
+    addNormalTd(dataHouseTr, houseData['city']);
+    addTdImg(dataHouseTr, houseData['imgurl']);
+    addNormalTd(dataHouseTr, houseData['price']);
+    addNormalTd(dataHouseTr, houseData['size']);
+    addNormalTd(dataHouseTr, houseData['title']);
+    addNormalTd(dataHouseTr, houseData['url']);
+    document.getElementsByClassName("houseTableBody")[0].appendChild(dataHouseTr);
 }
 
-/*
+function addTdImg(dataHouseTr, imgUrl, optionalClass) {
+    let imgTdContainer = document.createElement("td")
+    imgTdContainer.className += "tdImgContainer";
+    let tdImgElement = document.createElement("IMG");
+    tdImgElement.className += "imgTd";
+    tdImgElement.className += optionalClass != undefined ? optionalClass : "";
+    tdImgElement.src = imgUrl;
+    imgTdContainer.append(tdImgElement);
+    dataHouseTr.appendChild(imgTdContainer)
+    return dataHouseTr;
+}
 
 
-*/
+function addNormalTd(dataHouseTr, dato) {
+    let tdElement = document.createElement("td");
+    let text = document.createTextNode(dato); // Create a text node
+    tdElement.appendChild(text);
+    dataHouseTr.appendChild(tdElement)
+}

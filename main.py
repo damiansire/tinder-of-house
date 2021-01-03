@@ -14,5 +14,5 @@ def get_all_houses():
 	all_house = bdDao.get_all_house()
 	return jsonify(all_house)
 
-app.run(debug=True, port=5400)
+app.run(debug=True, port=5550)
 
