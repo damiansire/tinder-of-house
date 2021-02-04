@@ -85,7 +85,7 @@ pageNumber = obtain_page_number(driver)
 
 for actualPageNumber in range(0,pageNumber):
     driver.get(get_page(actualPageNumber))
-    time.sleep(5)
+    time.sleep(30)
     #Agarro todas las publicaciones disponibles
     all_house = driver.find_elements_by_class_name("ui-search-layout__item")
     #Las convierte a obj interno

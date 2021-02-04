@@ -1,0 +1,54 @@
+* {
+    text-align: center;
+}
+
+.button-bar-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img-thumbnail {
+    height: 500px;
+}
+
+.lightbox-gallery {
+    background-image: linear-gradient(#4A148C, #E53935);
+    background-repeat: no-repeat;
+    color: #000;
+    overflow-x: hidden
+}
+
+.lightbox-gallery p {
+    color: #fff
+}
+
+.lightbox-gallery h2 {
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    color: #fff
+}
+
+@media (max-width:767px) {
+    .lightbox-gallery h2 {
+        margin-bottom: 25px;
+        padding-top: 25px;
+        font-size: 24px
+    }
+}
+
+.lightbox-gallery .photos {
+    padding-bottom: 20px;
+}
+
+.lightbox-gallery .item {
+    padding-bottom: 30px
+}
+
+.row .photos {
+    height: 500px;
+}
+
+img.img-fluid {
+    height: 300px;
+}
