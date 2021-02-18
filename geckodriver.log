@@ -1,0 +1,43 @@
+1612918731181	geckodriver	INFO	Listening on 127.0.0.1:34079
+1612918732185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGIILmO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612918734908	Marionette	INFO	Listening on port 40173
+1612918735016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612918735030	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1612918811347	Marionette	ERROR	[33] No reply from Marionette:Register
+1612918999737	Marionette	ERROR	[37] No reply from Marionette:Register
+1612919002882	Marionette	ERROR	[39] No reply from Marionette:Register
+1612919024132	Marionette	ERROR	[41] No reply from Marionette:Register
+1612919034959	Marionette	ERROR	[43] No reply from Marionette:Register
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:934:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:708:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:934:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:708:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+1612919150090	Marionette	ERROR	[45] No reply from Marionette:Register
+1612919235665	Marionette	ERROR	[47] No reply from Marionette:Register
+1612919244169	Marionette	ERROR	[49] No reply from Marionette:Register
+1612919496059	Marionette	ERROR	[51] No reply from Marionette:Register
+1612921334292	Marionette	ERROR	[53] No reply from Marionette:Register
+JavaScript error: https://mlstaticquic-a.akamaihd.net/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.11/onboarding-cp.js, line 1: TypeError: b[g] is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
